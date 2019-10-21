@@ -1,0 +1,115 @@
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\AboutWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\MainWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\QueryForm.g.cs
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\App.g.cs
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\CSCD371_FileSystemWatcherApp_MarkupCompile.cache
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\CSCD371_FileSystemWatcherApp_MarkupCompile.lref
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\CSCD371_FileSystemWatcherApp.exe
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\CSCD371_FileSystemWatcherApp.pdb
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\CSCD371_FileSystemWatcherApp.exe.config
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\CSCD371_FileSystemWatcherApp.exe
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\CSCD371_FileSystemWatcherApp.pdb
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\EntityFramework.dll
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\System.Data.SQLite.dll
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\EntityFramework.xml
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\System.Data.SQLite.xml
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\AboutWindow.baml
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\MainWindow.baml
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\QueryForm.baml
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\CSCD371_FileSystemWatcherApp.g.resources
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\CSCD371_FileSystemWatcherApp.Properties.Resources.resources
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.GenerateResource.cache
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Desktop\jakey\midterm\CSCD371_Midterm_Project\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.CopyComplete
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\CSCD371_FileSystemWatcherApp.exe.config
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\CSCD371_FileSystemWatcherApp.exe
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\CSCD371_FileSystemWatcherApp.pdb
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.dll
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.xml
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csprojAssemblyReference.cache
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\AboutWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\MainWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\QueryForm.g.cs
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\App.g.cs
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp_MarkupCompile.cache
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp_MarkupCompile.lref
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\AboutWindow.baml
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\MainWindow.baml
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\QueryForm.baml
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.g.resources
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.Properties.Resources.resources
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.GenerateResource.cache
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.CopyComplete
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.exe
+C:\Users\pavel\OneDrive\Desktop\jakey\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.pdb
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\CSCD371_FileSystemWatcherApp.exe.config
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\CSCD371_FileSystemWatcherApp.exe
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\CSCD371_FileSystemWatcherApp.pdb
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.dll
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.xml
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csprojAssemblyReference.cache
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\AboutWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\MainWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\QueryForm.g.cs
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\App.g.cs
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp_MarkupCompile.cache
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp_MarkupCompile.lref
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\AboutWindow.baml
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\MainWindow.baml
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\QueryForm.baml
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.g.resources
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.Properties.Resources.resources
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.GenerateResource.cache
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.CopyComplete
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.exe
+C:\Users\pavel\OneDrive\Desktop\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.pdb
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\CSCD371_FileSystemWatcherApp.exe.config
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\CSCD371_FileSystemWatcherApp.exe
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\CSCD371_FileSystemWatcherApp.pdb
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.dll
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.xml
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csprojAssemblyReference.cache
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\AboutWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\MainWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\QueryForm.g.cs
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\App.g.cs
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp_MarkupCompile.cache
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp_MarkupCompile.lref
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\AboutWindow.baml
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\MainWindow.baml
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\QueryForm.baml
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.g.resources
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.Properties.Resources.resources
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.GenerateResource.cache
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.csproj.CopyComplete
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.exe
+C:\Users\pavel\OneDrive\Desktop\School\Summer 2019\Mid terms and final\.NET Mid-Term\CSCD371_FileSystemWatcherApp\obj\Debug\CSCD371_FileSystemWatcherApp.pdb

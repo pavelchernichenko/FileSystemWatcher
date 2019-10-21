@@ -1,0 +1,44 @@
+﻿<Window x:Class="CSCD371_FileSystemWatcherApp.About_Menu_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSCD371_FileSystemWatcherApp"
+        mc:Ignorable="d"
+        Title="About" Height="345.806" Width="331.879">
+    <Grid>
+        <RichTextBox HorizontalAlignment="Left" Height="240" Margin="25,40,0,0" VerticalAlignment="Top" Width="272">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=".NET (CSCD 371)"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="File System Watcher Application"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Version: 1"/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Program helps you watch activity of specific file(s) once given specified path."/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="May also use the option of writing to a SQL database with any file activity being noticed. "/>
+                </Paragraph>
+                <Paragraph>
+                    <Run Text="Publication Date: 07-29-2019"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button Content="Back" HorizontalAlignment="Left" Height="20" Margin="25,10,0,0" VerticalAlignment="Top" Width="50" Click="CloseAbout_Click" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.004"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>
